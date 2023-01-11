@@ -32,7 +32,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Implementando Todas as Etapas para a Criação de um Protótipo Profissional](https://web.dio.me/lab/implementando-todas-as-etapas-para-a-criacao-de-um-prototipo-profissional/learning/4cd99223-d0a8-4861-a2f6-95dc1b84b248)[Entendendo o desafio](https://web.dio.me/lab/implementando-todas-as-etapas-para-a-criacao-de-um-prototipo-profissional/learning/eacb2043-268c-40d5-b6d1-b0cc2140df93)
+- [Implementando Todas as Etapas para a Criação de um Protótipo Profissional](https://web.dio.me/lab/implementando-todas-as-etapas-para-a-criacao-de-um-prototipo-profissional/learning/4cd99223-d0a8-4861-a2f6-95dc1b84b248)
+- [Entendendo o desafio](https://web.dio.me/lab/implementando-todas-as-etapas-para-a-criacao-de-um-prototipo-profissional/learning/eacb2043-268c-40d5-b6d1-b0cc2140df93)
 
 
 
